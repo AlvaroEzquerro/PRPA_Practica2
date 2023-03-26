@@ -31,5 +31,10 @@ Primera version, no limite de tamaño en el puente.
 Suelen pasar todos los de un tipo a la vez.
 
 --------------------------------------
+-------------Entrega2_v2--------------
+
+Segunda versión, no limite de tamaño en el puente.
+
+--------------------------------------
 
 
