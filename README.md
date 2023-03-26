@@ -14,12 +14,14 @@ En el caso de los peatones, asegura que no vienen coches. La función usada es
 
 3. Ausencia de Deadlocks:
 
+La ausencia de deadlocks se asegura por que al acabar un coche da prioridad a los peatones y viceversa, y estos pasan todos a
+la vez. Por lo que no se esperan entre sí, sino que esperan a que el otro acabe, una vez acaba, empieza.
+
 
 4. Ausencia de inanicion:
 
-En este caso la inanicion se asegura ya que el numero de peatones y coches es finito.
-Aun asi, en caso de que haya cantidad alta de ambos se quedarían bloqueados hasta
-que uno tipo acabase.
+En este caso la inanicion se asegura ya que el numero de peatones y coches es finito. Una vez acaben unos, pasarán el resto
+e iran turnandose.
 
 
 -------------Entrega2_v1--------------
